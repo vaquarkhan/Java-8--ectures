@@ -1,3 +1,18 @@
+
+- https://github.com/akraskovski/java-8-features/tree/master/src/main/java/by/kraskovski/examples
+- https://github.com/joeyajames/Java
+- https://github.com/BafS/Java8-CheatSheet
+- https://github.com/shekhargulati/java8-the-missing-tutorial
+- https://github.com/biezhi/learn-java8
+- https://github.com/biezhi/learn-java8
+- https://github.com/bkimminich/java8-streams
+- https://github.com/java8/Java8InAction
+
+
+
+------------------------------------------
+
+
 This repository contains tutorials on various topics.
 
 
